@@ -1,0 +1,14 @@
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\bin\Debug\AutoIPClicks.exe.config
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\bin\Debug\AutoIPClicks.exe
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\bin\Debug\AutoIPClicks.pdb
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\obj\Debug\AutoIPClicks.csprojAssemblyReference.cache
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\obj\Debug\AutoIPClicks.Form1.resources
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\obj\Debug\AutoIPClicks.Properties.Resources.resources
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\obj\Debug\AutoIPClicks.csproj.GenerateResource.cache
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\obj\Debug\AutoIPClicks.csproj.CoreCompileInputs.cache
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\obj\Debug\AutoIPClicks.exe
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\obj\Debug\AutoIPClicks.pdb
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\bin\Debug\WebDriver.dll
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\bin\Debug\WebDriver.xml
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\obj\Debug\AutoIPClicks.csproj.CopyComplete
+D:\DO AN CNTT\AutoIPClicks\AutoIPClicks\bin\Debug\KAutoHelper.dll
